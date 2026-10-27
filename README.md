@@ -2,23 +2,24 @@
 
 ### 💻 Software Engineer | Website Developer | Java | Python | WordPress
 
-I'm a Software Engineer and Website Developer with 2 years of experience in software development, backend programming, website development, and building web applications. I enjoy working on both the functionality and design of websites and applications.
+I'm a Software Engineer and Website Developer with 2 years of experience in software development, backend programming, and website development. I enjoy building web applications, creating websites for clients, and developing practical solutions to real-world problems.
 
-- 🔭 Working on Java, Spring Boot, Python, REST APIs, and website development
-- 🌐 Building websites and web pages using WordPress, HTML, CSS, and JavaScript
+- 🔭 Working with Java, Spring Boot, Python, REST APIs, and website development
+- 🌐 Developing and maintaining websites using WordPress, HTML, CSS, and JavaScript
+- 🎨 Interested in website customization, responsive design, and user experience
 - 👯 Open to collaborating on open-source projects and real-world applications
-- 🌱 Learning new technologies and improving my full-stack development skills
+- 🌱 Continuously learning new technologies and improving my development skills
 - 💬 Ask me about Java, Python, Spring Boot, REST APIs, WordPress, SQL, and MongoDB
-- 🎯 Interested in Software Engineer, Website Developer, Backend Developer, and Full Stack Developer roles
+- 🎯 Open to Software Engineer, Website Developer, Backend Developer, and Full Stack Developer opportunities
 - ⚡ I enjoy turning real-world problems into useful digital solutions
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anjali-singh-6a10b2222/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:anjalibimalsingh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Anjaliiieeee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-singh-6a10b2222/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjalibimalsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anjaliiieeee)
 
 ---
 
@@ -38,14 +39,13 @@ I'm a Software Engineer and Website Developer with 2 years of experience in soft
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Backend Development**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 **Databases**
 
@@ -59,17 +59,21 @@ I'm a Software Engineer and Website Developer with 2 years of experience in soft
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 🌐 Client Work & Website Development
 
-- **Expense Tracker Backend** — Expense management features using Java, REST APIs, and SQL.
-- **ArthDaily – Expense Tracker App** — A React Native application for tracking income and expenses with category filters and monthly summaries.
-- **School Management System** — Backend functionality for school management, including teacher and student operations.
-- **Website Development** — Website pages and landing pages built using WordPress, with responsive layouts and content management.
+I have worked on multiple client projects involving website development, WordPress customization, landing pages, and website maintenance.
+
+- Website development and page customization
+- WordPress theme and plugin configuration
+- Responsive landing page development
+- Website content management and updates
+- Website performance and SEO improvements
+
+*More project details and links coming soon.*
 
 ---
 
@@ -83,7 +87,7 @@ I'm a Software Engineer and Website Developer with 2 years of experience in soft
 
 ---
 
-### 👀 Profile Visitors
+### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anjaliiieeee&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Anjaliiieeee&label=PROFILE%20VIEWS&style=for-the-badge&color=blue)
 
